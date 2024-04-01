@@ -1,0 +1,6 @@
+This aution program need to config some befor trying
+=>check the ip adress to client and sever same
+=>register one use first and close the entire programe both sever and client 
+=>and make sure change user["role"]= admin for admin user and management
+=> make sure check the user status logout before login if there is error in after lgin it will turn of the status logout auctomically but if error occurs befor thre will be issue turn logout to login itself 
+=>can start now...
