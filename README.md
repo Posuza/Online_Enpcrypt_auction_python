@@ -43,6 +43,10 @@ Before running the application, ensure you have:
   git@github.com:Posuza/python_auction_project.git
   cd auction-system
   ```
+## Or 
+  1. download the Zip File
+
+
 2.Configure the system
   -Verify IP addresses for client and server are on the same network
   -Set up initial admin user:
