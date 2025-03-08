@@ -43,7 +43,7 @@ Before running the application, ensure you have:
   git@github.com:Posuza/python_auction_project.git
   cd auction-system
   ```
-###Or 
+Or 
   . download the Zip File
 
 
