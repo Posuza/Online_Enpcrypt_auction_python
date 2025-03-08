@@ -44,7 +44,7 @@ Before running the application, ensure you have:
   cd auction-system
   ```
   - Or 
-    .download the Zip File
+    - download the Zip File
 
 
 2.Configure the system
