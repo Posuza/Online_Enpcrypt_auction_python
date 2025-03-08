@@ -107,7 +107,7 @@ Before running the application, ensure you have:
     git push origin feature/AmazingFeature
   ```
 ##Open a Pull Request
-  ###License
+  -License
   -This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Contact
