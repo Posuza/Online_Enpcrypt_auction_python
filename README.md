@@ -1,4 +1,4 @@
-# Online Auction System
+# Online Auction System In Python (Bash Base)
 
 A client-server based auction system that enables users to participate in real-time auctions with secure communication and user management.
 
