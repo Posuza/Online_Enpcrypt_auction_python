@@ -89,7 +89,7 @@ Before running the application, ensure you have:
   -Input validation
   
 ### Contributing
-  We welcome contributions to the Online Auction System! Here's how you can help:
+  -We welcome contributions to the Online Auction System! Here's how you can help:
 ###Fork the Repository
  ```bash
     git clone git@github.com:Posuza/python_auction_project.git
@@ -111,10 +111,10 @@ Before running the application, ensure you have:
   -This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Contact
-    -Your Name - posu0009@gmail.com
+   -posu0009@gmail.com
 
 ##Acknowledgments
-  Thanks to all contributors who have helped shape this project
-  Special thanks to the Python community for excellent libraries and tools
+  -Thanks to all contributors who have helped shape this project
+  -Special thanks to the Python community for excellent libraries and tools
 
   
